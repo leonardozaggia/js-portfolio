@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/rose_on_dark.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "tunnel with red lights";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Researchers' degrees of freedom? A quick fix: Multiverse analysis",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Addressing the replication crises in science, quantitativly evaluating the multiverse of possible analysis pipelines .",
+    url: "https://github.com/leonardozaggia/MultiBabiVerse",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Master in Neurocognitive Psychology",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "From EEG to fMRI, from Psychometrics to Machine Learning, from Python to R, from Matlab to SPSS, from Statistics to NeuroImaging, from Psychology to Neuroscience.",
+    url: "https://curriculum_online",
   },
   {
-    title: "My Resume Site",
+    title: "Automatic Sleep Stage Classification",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Collaboration with Fraunhofer Institute for Digital Medicine MEVIS, Oldenburg, Germany. Using Deep Learning to classify sleep stages from EEG data.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Prematurity and Brain Development, an inquiry into preventive NeuroScience?",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A study on the effects of prematurity on brain development (functional and structural), and the potential role of preventive neuropsychology.",
+    url: "https://preregistration",
   },
 ];
 
