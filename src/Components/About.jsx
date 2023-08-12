@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/white_backgorund.jpg";
+import image from "../images/white_background.jpg.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
