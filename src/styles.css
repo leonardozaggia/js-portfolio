@@ -13,9 +13,7 @@ body {
   padding: 0;
   width: 100%;
   /** add smooth scrolling to the page */
-  html {
-    scroll-behavior: smooth;
-  }
+  scroll-behavior: smooth;
 }
 
 div#main {
