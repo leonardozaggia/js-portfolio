@@ -4,6 +4,7 @@
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://leonardozaggia.github.io/js-portfolio",
+  
   "scripts": {
     "start": "parcel",
     "build": "parcel build",

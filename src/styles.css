@@ -123,3 +123,13 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a slide in animation */
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
