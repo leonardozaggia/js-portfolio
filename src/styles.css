@@ -12,10 +12,10 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
-}
-/** add smooth scrolling to the page */
-html {
-  scroll-behavior: smooth;
+  /** add smooth scrolling to the page */
+  html {
+    scroll-behavior: smooth;
+  }
 }
 
 div#main {
