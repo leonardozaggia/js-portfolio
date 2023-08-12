@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/portfolio_pic.jpg";
+import image from "../images/deep_breath.jpg";
 
-const imageAltText = "tunnel with red lights";
+const imageAltText = "image description which use i donot know";
 
 /**
  * Project list
