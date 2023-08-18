@@ -40,13 +40,13 @@ const projectList = [
     title: "Master in Neurocognitive Psychology",
     description:
       "From EEG to fMRI, from Psychometrics to Machine Learning, from Python to R, from Matlab to SPSS, from Statistics to NeuroImaging, from Psychology to Neuroscience.",
-    url: "https://curriculum_online",
+    url: "https://leonardozaggia.github.io/Resume/",
   },
   {
     title: "Automatic Sleep Stage Classification",
     description:
-      "Collaboration with Fraunhofer Institute for Digital Medicine MEVIS, Oldenburg, Germany. Using Deep Learning to classify sleep stages from EEG data.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaboration with Fraunhofer Institute for Digital Medicine MEVIS, Oldenburg, Germany. Using Deep Learning to classify sleep stages using EEG data.",
+    url: "https://www.idmt.fraunhofer.de/en/institute/projects-products/projects/SleepWell.html",
   },
   {
     title: "Prematurity and Brain Development, an inquiry into preventive NeuroScience?",
