@@ -126,7 +126,7 @@ img.socialIcon {
   width: 30px;
 }
 
-/* add a slide in animation */
+/** add slidein animation to the page */
 @keyframes slideIn {
   0% {
     opacity: 0;
